@@ -1,0 +1,4 @@
+The first root is: 3.5
+The second root is: 0
+Student answer: 0 | 3.5
+Sokolov: It is a good student
